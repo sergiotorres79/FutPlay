@@ -1,0 +1,236 @@
+{
+  "leagueName": "Partidos de Atlético de Madrid y Getafe",
+  "teams": [
+    "Atlético de Madrid", "Conquense", "Getafe", "Getafe B",
+    "Deportivo de A Coruña", "Levante", "Bayern Múnich", 
+    "Barcelona", "Viking", "Elche", "Real Betis", "PSV", "Valencia",
+    "Athletic Club", "Lebrijana", "Sevilla", "Brighton", "Villarreal",
+    "Iberia 1999", "Espanyol", "Inter Escaldes"
+  ],
+  "matches": [
+    {
+      "id": "m1",
+      "date": "2026-09-15",
+      "homeTeam": "Atlético de Madrid",
+      "awayTeam": "Getafe",
+      "score": { "home": 2, "away": 1 },
+      "status": "Final",
+      "stats": {
+        "possession": { "home": 58, "away": 42 },
+        "shots": { "home": 12, "away": 9 },
+        "shotsOnTarget": { "home": 6, "away": 4 },
+        "corners": { "home": 7, "away": 3 }
+      },
+      "events": [
+        { "minute": 12, "team": "Atlético de Madrid", "type": "Goal" },
+        { "minute": 37, "team": "Atlético de Madrid", "type": "Goal" },
+        { "minute": 64, "team": "Getafe", "type": "Goal" }
+      ]
+    },
+    {
+      "id": "m2",
+      "date": "2026-09-20",
+      "homeTeam": "Conquense",
+      "awayTeam": "Getafe B",
+      "score": { "home": 0, "away": 0 },
+      "status": "Final",
+      "stats": {
+        "possession": { "home": 45, "away": 55 },
+        "shots": { "home": 8, "away": 10 },
+        "shotsOnTarget": { "home": 3, "away": 5 },
+        "corners": { "home": 2, "away": 6 }
+      },
+      "events": []
+    },
+    {
+      "id": "m3",
+      "date": "2026-10-24",
+      "homeTeam": "Atlético de Madrid",
+      "awayTeam": "Deportivo de A Coruña",
+      "score": { "home": "-", "away": "-" },
+      "status": "21:00",
+      "stats": {},
+      "events": []
+    },
+    {
+      "id": "m13",
+      "date": "2026-10-25",
+      "homeTeam": "Athletic Club",
+      "awayTeam": "Getafe",
+      "score": { "home": "-", "away": "-" },
+      "status": "14:00",
+      "stats": {},
+      "events": []
+    },
+    {
+      "id": "m14",
+      "date": "2026-10-29",
+      "homeTeam": "Lebrijana",
+      "awayTeam": "Getafe",
+      "score": { "home": "-", "away": "-" },
+      "status": "19:00",
+      "stats": {},
+      "events": []
+    },
+    {
+      "id": "m4",
+      "date": "2026-10-31",
+      "homeTeam": "Levante",
+      "awayTeam": "Atlético de Madrid",
+      "score": { "home": "-", "away": "-" },
+      "status": "14:00",
+      "stats": {},
+      "events": []
+    },
+    {
+      "id": "m15",
+      "date": "2026-11-01",
+      "homeTeam": "Getafe",
+      "awayTeam": "Sevilla",
+      "score": { "home": "-", "away": "-" },
+      "status": "14:00",
+      "stats": {},
+      "events": []
+    },
+    {
+      "id": "m5",
+      "date": "2026-11-03",
+      "homeTeam": "Atlético de Madrid",
+      "awayTeam": "Bayern Múnich",
+      "score": { "home": "-", "away": "-" },
+      "status": "21:00",
+      "stats": {},
+      "events": []
+    },
+    {
+      "id": "m16",
+      "date": "2026-11-05",
+      "homeTeam": "Getafe",
+      "awayTeam": "Brighton",
+      "score": { "home": "-", "away": "-" },
+      "status": "21:00",
+      "stats": {},
+      "events": []
+    },
+    {
+      "id": "m6",
+      "date": "2026-11-08",
+      "homeTeam": "Atlético de Madrid",
+      "awayTeam": "Barcelona",
+      "score": { "home": "-", "away": "-" },
+      "status": "21:00",
+      "stats": {},
+      "events": []
+    },
+    {
+      "id": "m17",
+      "date": "2026-11-08",
+      "homeTeam": "Villarreal",
+      "awayTeam": "Getafe",
+      "score": { "home": "-", "away": "-" },
+      "status": "18:30",
+      "stats": {},
+      "events": []
+    },
+    {
+      "id": "m7",
+      "date": "2026-11-22",
+      "homeTeam": "Getafe",
+      "awayTeam": "Atlético de Madrid",
+      "score": { "home": "-", "away": "-" },
+      "status": "21:00",
+      "stats": {},
+      "events": []
+    },
+    {
+      "id": "m8",
+      "date": "2026-11-25",
+      "homeTeam": "Atlético de Madrid",
+      "awayTeam": "Viking",
+      "score": { "home": "-", "away": "-" },
+      "status": "21:00",
+      "stats": {},
+      "events": []
+    },
+    {
+      "id": "m18",
+      "date": "2026-11-26",
+      "homeTeam": "Iberia 1999",
+      "awayTeam": "Getafe",
+      "score": { "home": "-", "away": "-" },
+      "status": "18:45",
+      "stats": {},
+      "events": []
+    },
+    {
+      "id": "m9",
+      "date": "2026-11-29",
+      "homeTeam": "Elche",
+      "awayTeam": "Atlético de Madrid",
+      "score": { "home": "-", "away": "-" },
+      "status": "17:00",
+      "stats": {},
+      "events": []
+    },
+    {
+      "id": "m19",
+      "date": "2026-11-29",
+      "homeTeam": "Espanyol",
+      "awayTeam": "Getafe",
+      "score": { "home": "-", "away": "-" },
+      "status": "17:00",
+      "stats": {},
+      "events": []
+    },
+    {
+      "id": "m10",
+      "date": "2026-12-06",
+      "homeTeam": "Atlético de Madrid",
+      "awayTeam": "Real Betis",
+      "score": { "home": "-", "away": "-" },
+      "status": "17:00",
+      "stats": {},
+      "events": []
+    },
+    {
+      "id": "m20",
+      "date": "2026-12-06",
+      "homeTeam": "Getafe",
+      "awayTeam": "Valencia",
+      "score": { "home": "-", "away": "-" },
+      "status": "17:00",
+      "stats": {},
+      "events": []
+    },
+    {
+      "id": "m11",
+      "date": "2026-12-09",
+      "homeTeam": "PSV",
+      "awayTeam": "Atlético de Madrid",
+      "score": { "home": "-", "away": "-" },
+      "status": "21:00",
+      "stats": {},
+      "events": []
+    },
+    {
+      "id": "m21",
+      "date": "2026-12-10",
+      "homeTeam": "Getafe",
+      "awayTeam": "Inter Escaldes",
+      "score": { "home": "-", "away": "-" },
+      "status": "18:45",
+      "stats": {},
+      "events": []
+    },
+    {
+      "id": "m12",
+      "date": "2026-12-13",
+      "homeTeam": "Atlético de Madrid",
+      "awayTeam": "Valencia",
+      "score": { "home": "-", "away": "-" },
+      "status": "17:00",
+      "stats": {},
+      "events": []
+    }
+  ]
+}

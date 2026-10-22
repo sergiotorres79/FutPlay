@@ -1,0 +1,54 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>MiniScore - Partidos y Estadísticas</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header>
+    <div class="brand">
+      <div>
+        <h1>MiniScore</h1>
+        <div class="subtitle" id="leagueSubtitle">Cargando...</div>
+      </div>
+      <div class="pill">
+        <span style="color:var(--muted); font-size:12px; font-weight:800;">Modo</span>
+        <span style="font-weight:900;">Atlético / Conquense / Getafe / Getafe B</span>
+      </div>
+    </div>
+  </header>
+  <div class="container">
+    <div class="controls">
+      <div class="pill">
+        <span style="color:var(--muted); font-size:12px; font-weight:800;">Equipo</span>
+        <select id="teamFilter"></select>
+      </div>
+      <input id="search" placeholder="Buscar por rival o equipo..." />
+    </div>
+    <div class="grid">
+      <!-- Lista -->
+      <section class="card">
+        <div class="cardHeader">
+          <h2>Partidos</h2>
+          <div class="badge" id="countBadge">0</div>
+        </div>
+        <div class="list" id="matchesList"></div>
+      </section>
+      <!-- Panel de detalle -->
+      <aside class="card">
+        <div class="cardHeader">
+          <h2>Detalle</h2>
+          <div class="badge" id="statusBadge">—</div>
+        </div>
+        <div class="panel" id="detailPanel">
+          <h3>Selecciona un partido</h3>
+          <div class="footerNote">Aquí verás estadísticas y eventos.</div>
+        </div>
+      </aside>
+    </div>
+  </div>
+  <script src="app.js"></script>
+</body>
+</html>
